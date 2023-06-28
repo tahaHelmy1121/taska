@@ -1,0 +1,10 @@
+var baseUrl = "ecommerce-jaadara.site.jadara.work";
+var register = "api/register";
+var login = "/api/login";
+var forget = "api/forget-password";
+var active = "api/active-account";
+var reset = "api/reset-password";
+var slider = "api/get-sliders";
+var offers = "api/get-products-top-offers";
+var bestSellers ="api/get-products-best-seller";
+var search = "api/search-product";
